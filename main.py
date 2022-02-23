@@ -1,7 +1,7 @@
 import csv
 import datetime
 
-LOGS = 'iterator_log.csv'
+LOGS = 'iterator_logs.csv'
 
 def create_logs_file(file_path=LOGS):
     try:
